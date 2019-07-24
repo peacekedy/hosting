@@ -9,7 +9,7 @@
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title>SB Admin 2 - Register</title>
+  <title>hosting form</title>
 
   <!-- Custom fonts for this template-->
   <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
@@ -37,14 +37,26 @@
               <form class="user">
                 <div class="form-group row">
                   <div class="col-sm-6 mb-3 mb-sm-0">
-                    <input type="text" class="form-control form-control-user" id="exampleFirstName" placeholder="First Name">
+                    <input type="text" class="form-control form-control-user"  id="exampleFirstName" placeholder="packege name">
                   </div>
                   <div class="col-sm-6">
-                    <input type="text" class="form-control form-control-user" id="exampleLastName" placeholder="Last Name">
+                    <input type="text" class="form-control form-control-user" id="exampleLastName" placeholder="price">
                   </div>
                 </div>
                 <div class="form-group">
-                  <input type="email" class="form-control form-control-user" id="exampleInputEmail" placeholder="Email Address">
+                  <input type="email" class="form-control form-control-user" id="exampleInputEmail" placeholder="disk space">
+                </div>
+				<div class="form-group">
+                  <input type="email" class="form-control form-control-user" id="exampleInputEmail" placeholder="band width">
+                </div>
+				<div class="form-group">
+                  <input type="email" class="form-control form-control-user" id="exampleInputEmail" placeholder="email">
+                </div>
+				<div class="form-group">
+                  <input type="email" class="form-control form-control-user" id="exampleInputEmail" placeholder="mysql database">
+                </div>
+				<div class="form-group">
+                  <input type="email" class="form-control form-control-user" id="exampleInputEmail" placeholder="sub domain">
                 </div>
                 <div class="form-group row">
                   <div class="col-sm-6 mb-3 mb-sm-0">

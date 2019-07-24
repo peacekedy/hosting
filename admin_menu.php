@@ -36,7 +36,8 @@
       <!-- Nav Item - Utilities Collapse Menu -->
 	  <li class="nav-item">
         <a class="nav-link" href="#">
-          <span>hosting form</span></a>
+		<a class="nav-link collapsed" href="admin_hosting_form.php" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
+        <span>hosting form</span></a>
       </li>
             <!-- Divider -->
 
@@ -68,7 +69,9 @@
             <a class="collapse-item" href="#">report by day</a>
             <a class="collapse-item" href="#">report by date</a>
             <a class="collapse-item" href="#">per month</a>
-            <a class="collapse-item" href="#">per year</a>
+            <a class="collapse-item" href="#">per year
+			
+			</a>
           </div>
         </div>
       </li>
