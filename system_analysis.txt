@@ -1,7 +1,15 @@
-<html>
-<head>
-    <title>sytem analysis</title>
-<head>
-<body>
-</body>
-</html>
+
+sytem analysis
+=================
+*steps 
+   #analysis of the system
+   #database analysis 
+   #database creation 
+   #homepage analysis
+   #homepage design
+   #index design 
+   #user authantication and authorization
+   #admin menu
+   #admin forms
+   #client menu
+   #client forms
