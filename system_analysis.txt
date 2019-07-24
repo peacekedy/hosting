@@ -1,15 +1,27 @@
 
-sytem analysis
+system analysis
 =================
 *steps 
    #analysis of the system
    #database analysis 
-   #database creation 
+     -database design
+           
    #homepage analysis
-   #homepage design
-   #index design 
-   #user authantication and authorization
-   #admin menu
-   #admin forms
-   #client menu
-   #client forms
+   #fontend design 
+     -home 
+	 -hosting
+	 -domain
+	 -contact
+   #user authentication and authorization
+        -users interface
+		
+   #admin dashboard
+       -hosting management
+	   -domain management
+	   -client management
+	   -report
+   #client dashboard
+      -profile
+	  -my hosting
+	  -my domain
+	  -logout
