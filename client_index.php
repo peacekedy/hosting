@@ -25,7 +25,7 @@
   <!-- Page Wrapper -->
   <div id="wrapper">
     <!-- Sidebar -->
-	<?php include"admin_menu.php"?>
+	<?php include"client_menu.php"?>
     <!-- End of Sidebar -->
 
     <!-- Content Wrapper -->
@@ -35,11 +35,11 @@
       <div id="content">
 
         <!-- Topbar -->
-		<?php include"admin_header.php"?>
+		<?php include"client_header.php"?>
         <!-- End of Topbar -->
 
         <!-- Begin Page Content -->
-       <?php include"admin_container.php"?>
+       <?php include"client_container.php"?>
         <!-- /.container-fluid -->
 
       </div>
