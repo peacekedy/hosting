@@ -21,14 +21,14 @@
 </head>
 
 <body class="bg-gradient-primary">
-
-  <div class="container">
-
+<?php include"admin_header.php"?>
+<div class="container">
     <div class="card o-hidden border-0 shadow-lg my-5">
       <div class="card-body p-0">
         <!-- Nested Row within Card Body -->
         <div class="row">
-          <div class="col-lg-5 d-none d-lg-block bg-register-image"></div>
+		
+<?php include"admin_menu.php"?>
           <div class="col-lg-7">
             <div class="p-5">
               <div class="text-center">
@@ -91,7 +91,7 @@
     </div>
 
   </div>
-
+  <?php include"footer.php"?>
   <!-- Bootstrap core JavaScript-->
   <script src="vendor/jquery/jquery.min.js"></script>
   <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
