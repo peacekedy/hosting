@@ -1,3 +1,3 @@
 <?php
- $con=mysqli_connect("localhost","root","","excel_server_db");
+ $con=mysqli_connect("localhost","root","","hosting_managment_system");
 ?>
