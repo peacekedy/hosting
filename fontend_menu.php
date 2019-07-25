@@ -20,6 +20,9 @@
           <li class="nav-item px-lg-4">
             <a class="nav-link text-uppercase text-expanded" href="contact_link.php">Contact us</a>
           </li>
+		  <li class="nav-item px-lg-4">
+            <a class="nav-link text-uppercase text-expanded" href="#">login</a>
+          </li>
         </ul>
       </div>
     </div>
